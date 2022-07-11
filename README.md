@@ -1,0 +1,2 @@
+# sultii
+My static Website
